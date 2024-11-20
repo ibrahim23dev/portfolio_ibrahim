@@ -42,15 +42,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "MERN Stack Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Native Developer/PWA",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Node Js Backend Developer",
     icon: backend,
   },
   {
@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Regnum Resources Ltd",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
@@ -129,11 +129,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Full Stack Developer",
+    company_name: "Kraftwerk Techonology Ltd.",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Agust 2022 - Continue",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -142,8 +142,8 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Lecturer Department of ICT, Harun Mollah Degree College",
+    company_name: "Harun Mollah Degree College",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
